@@ -27,10 +27,11 @@ export default class StackOutputPlugin {
   }
 
   get stackName () {
-    return util.format('%s-%s',
-      this.serverless.service.getServiceName(),
-      this.serverless.getProvider('aws').getStage()
-    )
+    return this.serverless.service.getServiceName()
+//     util.format('%s-%s',
+//       this.serverless.service.getServiceName(),
+//       this.serverless.getProvider('aws').getStage()
+//     )
   }
 
   private hasConfig (key: string) {
