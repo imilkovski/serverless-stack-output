@@ -12,18 +12,18 @@ A [serverless](https://serverless.com) plugin to store output from your AWS Clou
 ### Install
 
 ```bash
-$ > yarn add serverless-stack-output
+$ > yarn add serverless-stack-output-v1
 ```
 
 ```bash
-$ > npm install serverless-stack-output
+$ > npm install serverless-stack-output-v1
 ```
 
 ### Configuration
 
 ```yaml
 plugins:
-  - serverless-stack-output
+  - serverless-stack-output-v1
 
 custom:
   output:
