@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbstjn/serverless-stack-output.git"
+    "url": "git+https://github.com/imilkovski/serverless-stack-output-v1.git"
   },
   "bugs": {
-    "url": "https://github.com/sbstjn/serverless-stack-output/issues"
+    "url": "https://github.com/imilkovski/serverless-stack-output-v1/issues"
   },
-  "homepage": "https://github.com/sbstjn/serverless-stack-output#readme",
+  "homepage": "https://github.com/imilkovski/serverless-stack-output-v1#readme",
   "keywords": [
     "serverless",
     "plugin",
