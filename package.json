@@ -1,6 +1,7 @@
 {
   "name": "serverless-stack-output",
   "description": "Serverless plugin to process AWS CloudFormation Stack Output",
+  "version": "1.0",
   "license": "MIT",
   "author": "Iliya Milkovski <imilkovski@coca-cola.com>",
   "main": "dist",
